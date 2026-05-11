@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-\# 🎓 Student Grade Calculator
-
-
-
+🎓 Student Grade Calculator
 A simple command-line Python program that calculates and displays a student's grades with a formatted report card.
-
-
-
-\## 📌 Features
-
-
-
+📌 Features
 \- Enter multiple subjects and scores for a student
 
 \- Calculates the \*\*average score\*\* automatically
@@ -23,57 +13,20 @@ A simple command-line Python program that calculates and displays a student's gr
 
 \- Supports multiple students in one session
 
-
-
-\## 🛠️ Requirements
-
-
-
+🛠️ Requirements
 \- Python 3.x (no external libraries needed)
 
+ 🚀 How to Run
+ 1.Clone the repository:
+ git clone https://github.com/YOUR\_USERNAME/student-grade-calculator.git
+ cd student-grade-calculator
 
+2.Run the program:
+ python grade\_calculator.py
+ 🧪 Running Tests
+ python -m unittest test\_grade\_calculator.py -v
 
-\## 🚀 How to Run
-
-
-
-1\. \*\*Clone the repository:\*\*
-
-&#x20;  ```bash
-
-&#x20;  git clone https://github.com/YOUR\_USERNAME/student-grade-calculator.git
-
-&#x20;  cd student-grade-calculator
-
-&#x20;  ```
-
-
-
-2\. \*\*Run the program:\*\*
-
-&#x20;  ```bash
-
-&#x20;  python grade\_calculator.py
-
-&#x20;  ```
-
-
-
-\## 🧪 Running Tests
-
-
-
-```bash
-
-python -m unittest test\_grade\_calculator.py -v
-
-```
-
-
-
-\## 📊 Grade Scale
-
-
+ 📊 Grade Scale
 
 | Average Score | Letter Grade | Remarks                   |
 
@@ -90,58 +43,38 @@ python -m unittest test\_grade\_calculator.py -v
 | Below 60      | F            | Failing                   |
 
 
+ 💡 Sample Output
 
-\## 💡 Sample Output
+=============================================
+            REPORT CARD
+=============================================
+Student Name : Alice
+\---------------------------------------------
+ Subject              Score
+\---------------------------------------------
+ Math                 88.00
 
+ Science              92.00
 
+ English              75.00
 
-```
+\---------------------------------------------
+
+Average Score        85.00
+
+ Grade                    B
+
+ Highest Score        92.00
+
+ Lowest Score         75.00
+
+\---------------------------------------------
+
+ Remarks: Good job! Above average performance.
 
 =============================================
 
-&#x20;             REPORT CARD
-
-=============================================
-
-&#x20; Student Name : Alice
-
-\---------------------------------------------
-
-&#x20; Subject              Score
-
-\---------------------------------------------
-
-&#x20; Math                 88.00
-
-&#x20; Science              92.00
-
-&#x20; English              75.00
-
-\---------------------------------------------
-
-&#x20; Average Score        85.00
-
-&#x20; Grade                    B
-
-&#x20; Highest Score        92.00
-
-&#x20; Lowest Score         75.00
-
-\---------------------------------------------
-
-&#x20; Remarks: Good job! Above average performance.
-
-=============================================
-
-```
-
-
-
-\## 📁 Project Structure
-
-
-
-```
+ 📁 Project Structure
 
 student-grade-calculator/
 
@@ -151,18 +84,10 @@ student-grade-calculator/
 
 └── README.md                 # Project documentation
 
-```
+ 👤 Author
 
 
 
-\## 👤 Author
-
-
-
-\- \*\*Your Name\*\* — Python Assessment Project
-
-
-
-=======
+M.Mounika — Python Assessment Project
 # student-grade-calculator
 >>>>>>> f2f70420597a280fdea301c33e6038ebf8277464
