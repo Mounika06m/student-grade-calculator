@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🎓 Student Grade Calculator
 
 
@@ -162,3 +163,6 @@ student-grade-calculator/
 
 
 
+=======
+# student-grade-calculator
+>>>>>>> f2f70420597a280fdea301c33e6038ebf8277464
