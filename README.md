@@ -18,7 +18,7 @@ A simple command-line Python program that calculates and displays a student's gr
 
  🚀 How to Run
  1.Clone the repository:
- git clone https://github.com/YOUR\_USERNAME/student-grade-calculator.git
+ git clone https://github.com/Mounika06m/student-grade-calculator
  cd student-grade-calculator
 
 2.Run the program:
