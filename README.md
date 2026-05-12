@@ -1,10 +1,10 @@
-🎓 Student Grade Calculator
+**🎓 Student Grade Calculator**
 
-📝 Description
+**📝 Description**
 
 A command-line based Python application that calculates and evaluates student academic performance. It takes subject-wise scores as input, computes the average, assigns a letter grade, and generates a neatly formatted report card for one or multiple students.
 
-🎯 Objective
+**🎯 Objective**
 
 1.To automate the process of calculating student grades accurately
 
@@ -16,7 +16,7 @@ A command-line based Python application that calculates and evaluates student ac
 
 5.To generate a readable report card with remarks and performance summary
 
-✨ Features
+**✨ Features**
 
 1.Enter multiple subjects and their scores for any student
 
@@ -36,7 +36,7 @@ A command-line based Python application that calculates and evaluates student ac
 
 9.No external libraries required — pure Python 3
 
-⚙️ How It Works
+⚙️ **How It Works**
 
 1.The user enters the student's name
 
@@ -53,20 +53,20 @@ A command-line based Python application that calculates and evaluates student ac
 7.A formatted report card is displayed
 
 8.The user can choose to calculate grades for another student
-
- 🚀 How to Run
+**
+ 🚀 How to Run**
  
- 1.Clone the repository:
- 
+** 1.Clone the repository:
+ **
  git clone https://github.com/Mounika06m/student-grade-calculator
  
  cd student-grade-calculator
 
-2.Run the program:
+**2.Run the program:**
 
  python grade\_calculator.py
  
- 📊 Grade Scale
+ **📊 Grade Scale**
 
 | Average Score | Letter Grade | Remarks                   |
 
@@ -83,7 +83,7 @@ A command-line based Python application that calculates and evaluates student ac
 | Below 60      | F            | Failing                   |
 
 
- 💡 Sample Output
+ **💡 Sample Output**
 
 =============================================
             REPORT CARD
@@ -114,6 +114,6 @@ Average Score        85.00
 
 =============================================
 
- 👤 Author
+ **👤 Author**
  
-M.Mounika 
+**M.Mounika **
