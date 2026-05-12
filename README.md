@@ -6,37 +6,38 @@ A command-line based Python application that calculates and evaluates student ac
 
 🎯 Objective
 
-To automate the process of calculating student grades accurately
+1.To automate the process of calculating student grades accurately
 
-To eliminate manual errors in grade computation
+2.To eliminate manual errors in grade computation
 
-To provide instant, clear feedback on student performance
+3.To provide instant, clear feedback on student performance
 
-To help teachers and students track academic progress efficiently
+4.To help teachers and students track academic progress efficiently
 
-To generate a readable report card with remarks and performance summary
+5.To generate a readable report card with remarks and performance summary
 
 ✨ Features
 
-Enter multiple subjects and their scores for any student
+1.Enter multiple subjects and their scores for any student
 
-Automatically calculates the average score
+2.Automatically calculates the average score
 
-Assigns a letter grade (A, B, C, D, F) based on the average
+3.Assigns a letter grade (A, B, C, D, F) based on the average
 
-Displays the highest and lowest scoring subjects
+4.Displays the highest and lowest scoring subjects
 
-Shows personalized performance remarks
+5.Shows personalized performance remarks
 
-Supports multiple students in a single session
+6.Supports multiple students in a single session
 
-Prints a clean, formatted report card
+7.Prints a clean, formatted report card
 
-Includes unit tests for reliable code verification
+8.Includes unit tests for reliable code verification
 
-No external libraries required — pure Python 3
+9.No external libraries required — pure Python 3
 
 ⚙️ How It Works
+
 1.The user enters the student's name
 
 2.The user inputs subject names and their corresponding scores
