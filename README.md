@@ -1,20 +1,34 @@
 🎓 Student Grade Calculator
-A simple command-line Python program that calculates and displays a student's grades with a formatted report card.
-📌 Features
-\- Enter multiple subjects and scores for a student
+📝 Description
+A command-line based Python application that calculates and evaluates student academic performance. It takes subject-wise scores as input, computes the average, assigns a letter grade, and generates a neatly formatted report card for one or multiple students.
 
-\- Calculates the \*\*average score\*\* automatically
+🎯 Objective
+>To automate the process of calculating student grades accurately
+>To eliminate manual errors in grade computation
+>To provide instant, clear feedback on student performance
+>To help teachers and students track academic progress efficiently
+>To generate a readable report card with remarks and performance summary
 
-\- Assigns a \*\*letter grade\*\* (A, B, C, D, F)
+✨ Features
+>Enter multiple subjects and their scores for any student
+>Automatically calculates the average score
+>Assigns a letter grade (A, B, C, D, F) based on the average
+>Displays the highest and lowest scoring subjects
+>Shows personalized performance remarks
+>Supports multiple students in a single session
+>Prints a clean, formatted report card
+>Includes unit tests for reliable code verification
+>No external libraries required — pure Python 3
 
-\- Shows \*\*highest\*\* and \*\*lowest\*\* scores
-
-\- Displays personalized \*\*remarks\*\*
-
-\- Supports multiple students in one session
-
-🛠️ Requirements
-\- Python 3.x (no external libraries needed)
+⚙️ How It Works
+The user enters the student's name
+The user inputs subject names and their corresponding scores
+The program calculates the average of all scores
+The average is mapped to a letter grade using a grading scale
+The highest and lowest scores are identified
+A remark is generated based on performance
+A formatted report card is displayed
+The user can choose to calculate grades for another student
 
  🚀 How to Run
  1.Clone the repository:
@@ -23,9 +37,7 @@ A simple command-line Python program that calculates and displays a student's gr
 
 2.Run the program:
  python grade\_calculator.py
- 🧪 Running Tests
- python -m unittest test\_grade\_calculator.py -v
-
+ 
  📊 Grade Scale
 
 | Average Score | Letter Grade | Remarks                   |
@@ -74,20 +86,5 @@ Average Score        85.00
 
 =============================================
 
- 📁 Project Structure
-
-student-grade-calculator/
-
-├── grade\_calculator.py       # Main program
-
-├── test\_grade\_calculator.py  # Unit tests
-
-└── README.md                 # Project documentation
-
  👤 Author
-
-
-
-M.Mounika — Python Assessment Project
-# student-grade-calculator
->>>>>>> f2f70420597a280fdea301c33e6038ebf8277464
+M.Mounika 
