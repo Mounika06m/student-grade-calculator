@@ -85,6 +85,7 @@ A command-line based Python application that calculates and evaluates student ac
 
 
  **💡 Sample Output**
+ 
 
 =============================================
             REPORT CARD
