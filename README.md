@@ -53,6 +53,7 @@ A command-line based Python application that calculates and evaluates student ac
 7.A formatted report card is displayed
 
 8.The user can choose to calculate grades for another student
+
 **
  🚀 How to Run**
  
